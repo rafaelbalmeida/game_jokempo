@@ -4,4 +4,4 @@
 
 Mudei mais uma linha do código.
 
-
+A index está com css e javascript na mesma página por questões didaticas mais organizar com links para arquivos separadas
